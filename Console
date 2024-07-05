@@ -1,0 +1,6 @@
+//calcular el radio de un circulo -c#
+console.write("circunferencia: ");
+double circunferencia = cinvert.ToDouble(console.readLine());
+double radio = circunferencia/ (2 * Match.PI);
+console.write(Match.round(radio, 2) + " cm");
+console.Readkey();
